@@ -5,7 +5,7 @@
 *Akash Kamalesh, Tanistha Hota, Gowri Srinivasa*
 PES Center for Pattern Recognition, Department of Computer Science and Engineering, PES University, Bengaluru, India
 
-[[Paper](scene-clip.md)] [[Supplementary](Supplementary.pdf)]
+[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37667-1_10) [[Supplementary](Supplementary.pdf)]
 
 ---
 
@@ -13,7 +13,7 @@ PES Center for Pattern Recognition, Department of Computer Science and Engineeri
 
 CLIP tends to behave like a "bag-of-words" encoder: it often assigns near-identical scores to a caption and its structurally scrambled counterpart (e.g. *"a man riding a bike past a train"* vs. *"a train riding a man past a bike"*). As a result, it struggles with attribute binding, spatial relations, and negation, even when all the right words are present.
 
-**Scene-CLIP** addresses this by injecting scene graph knowledge (⟨subject, relation, object⟩ triples) directly into CLIP's own embedding space, rather than using a separate graph encoder like Structure-CLIP. Each triple is linearized as text and encoded with CLIP's own text encoder, then aggregated by a lightweight 2-layer transformer (adding ~2.1M parameters, 157.58M total) into a structural embedding that is fused with the caption embedding. Training combines a contrastive loss on this fused feature with a margin-ranking loss over a dual negative-sampling strategy: syntactic swaps (subject/object and attribute swaps) from COCO, and semantic hard negatives (object/attribute/relation/count edits) from VisMin. On average this improves ~12% over CLIP across SugarCrepe, SugarCrepe++, Visual Genome and VisMin, while keeping COCO retrieval in line with NegCLIP/Structure-CLIP (see table below; full numbers in [scene-clip.md](scene-clip.md)).
+**Scene-CLIP** addresses this by injecting scene graph knowledge (⟨subject, relation, object⟩ triples) directly into CLIP's own embedding space, rather than using a separate graph encoder like Structure-CLIP. Each triple is linearized as text and encoded with CLIP's own text encoder, then aggregated by a lightweight 2-layer transformer (adding ~2.1M parameters, 157.58M total) into a structural embedding that is fused with the caption embedding. Training combines a contrastive loss on this fused feature with a margin-ranking loss over a dual negative-sampling strategy: syntactic swaps (subject/object and attribute swaps) from COCO, and semantic hard negatives (object/attribute/relation/count edits) from VisMin. On average this improves ~12% over CLIP across SugarCrepe, SugarCrepe++, Visual Genome and VisMin, while keeping COCO retrieval in line with NegCLIP/Structure-CLIP.
 
 <p align="center">
   <img src="figures/clip_scores.png" alt="CLIP bag-of-words failure mode" width="720"/>
@@ -50,7 +50,7 @@ CLIP tends to behave like a "bag-of-words" encoder: it often assigns near-identi
 | COCO Retrieval | T→I R@1 | 30.4 | 39.6 | 41.1 |
 | Parameters | Total | — | 220M | 157.58M |
 
-Full results tables (Tables 1–6) and ablations on the fusion weight λ, training-data mix, loss components, encoder freezing, and knowledge-aggregation variants are in [scene-clip.md](scene-clip.md).
+Full results tables (Tables 1–6) and ablations on the fusion weight λ, training-data mix, loss components, encoder freezing, and knowledge-aggregation variants can be found in the paper.
 
 <p align="center">
   <img src="figures/sugarcrepe_pp.png" alt="SugarCrepe++ category breakdown" width="49%"/>
@@ -64,7 +64,6 @@ Full results tables (Tables 1–6) and ablations on the fusion weight λ, traini
 ## Repository Structure
 
 ```
-├── scene-clip.md                          # Full paper text (markdown)
 ├── Supplementary.pdf                       # Supplementary material
 ├── Inference_samples.ipynb                 # Qualitative inference examples (CLIP / NegCLIP / Scene-CLIP)
 ├── environment.sh                          # One-shot dependency installer
