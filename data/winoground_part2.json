@@ -1,0 +1,1978 @@
+{
+  "a shorter person wearing blue standing next to a taller person": [
+    "shorter person wearing blue",
+    "standing next to",
+    "taller person"
+  ],
+  "a taller person wearing blue standing next to a shorter person": [
+    "taller person wearing blue",
+    "standing next to",
+    "shorter person"
+  ],
+  "a person wearing a bear mask in blue on the left hand side of a person wearing a panda mask with glasses in pink": [
+    "person wearing a bear mask in blue",
+    "on the left hand side of",
+    "person wearing a panda mask with glasses in pink"
+  ],
+  "a person wearing a panda mask with glasses in blue on the left hand side of a person wearing a bear mask in pink": [
+    "person wearing a panda mask with glasses in blue",
+    "on the left hand side of",
+    "person wearing a bear mask in pink"
+  ],
+  "a car containing many a box": [
+    "car",
+    "containing",
+    "many a box"
+  ],
+  "a box containing many a car": [
+    "box",
+    "containing",
+    "many a car"
+  ],
+  "left is red and right is blue": [
+    "left",
+    "is",
+    "red"
+  ],
+  "left is blue and right is red": [
+    "left",
+    "is",
+    "blue"
+  ],
+  "many a table tennis racket, just one ball": [
+    "table tennis rackets",
+    "are more numerous than",
+    "ball"
+  ],
+  "just one table tennis racket, many a ball": [
+    "balls",
+    "are more numerous than",
+    "table tennis racket"
+  ],
+  "four lions, no tigers": [
+    "lions",
+    "are",
+    "four"
+  ],
+  "no lions, four tigers": [
+    "tigers",
+    "are",
+    "four"
+  ],
+  "a small spherical object is heavier than a big spherical object": [
+    "small spherical object",
+    "is heavier than",
+    "big spherical object"
+  ],
+  "a big spherical object is heavier than a small spherical object": [
+    "big spherical object",
+    "is heavier than",
+    "small spherical object"
+  ],
+  "an older person blocking a younger person": [
+    "older person",
+    "blocking",
+    "younger person"
+  ],
+  "a younger person blocking an older person": [
+    "younger person",
+    "blocking",
+    "older person"
+  ],
+  "white land and black water": [
+    "land",
+    "is",
+    "white"
+  ],
+  "black land and white water": [
+    "land",
+    "is",
+    "black"
+  ],
+  "the cube is smaller than the shape whose lateral faces meet at a vertex": [
+    "cube",
+    "is smaller than",
+    "shape whose lateral faces meet at a vertex"
+  ],
+  "the shape whose lateral faces meet at a vertex is smaller than the cube": [
+    "shape whose lateral faces meet at a vertex",
+    "is smaller than",
+    "cube"
+  ],
+  "more bicycles than cars": [
+    "bicycles",
+    "are more than",
+    "cars"
+  ],
+  "more cars than bicycles": [
+    "cars",
+    "are more than",
+    "bicycles"
+  ],
+  "there are more apples than pears": [
+    "apples",
+    "are more than",
+    "pears"
+  ],
+  "there are more pears than apples": [
+    "pears",
+    "are more than",
+    "apples"
+  ],
+  "there is more love than hate": [
+    "love",
+    "is more than",
+    "hate"
+  ],
+  "there is more hate than love": [
+    "hate",
+    "is more than",
+    "love"
+  ],
+  "more water than oil": [
+    "water",
+    "is more than",
+    "oil"
+  ],
+  "more oil than water": [
+    "oil",
+    "is more than",
+    "water"
+  ],
+  "a person cries while another person wearing jewelry above their shoulders consoles": [
+    "person wearing jewelry above their shoulders",
+    "consoles",
+    "crying person"
+  ],
+  "a person consoles while another person wearing jewelry above their shoulders cries": [
+    "person",
+    "consoles",
+    "crying person wearing jewelry above their shoulders"
+  ],
+  "a person with long hair eating a meat-based product while a person with short hair snacks on some fries": [
+    "person with long hair",
+    "eating",
+    "meat-based product"
+  ],
+  "a person with short hair eating a meat-based product while a person with long hair snacks on some fries": [
+    "person with short hair",
+    "eating",
+    "meat-based product"
+  ],
+  "water below the boat": [
+    "water",
+    "is below",
+    "boat"
+  ],
+  "boat below the water": [
+    "boat",
+    "is below",
+    "water"
+  ],
+  "the one in front is faster than the other one": [
+    "one in front",
+    "is faster than",
+    "other one"
+  ],
+  "the other one is faster than the one in front": [
+    "other one",
+    "is faster than",
+    "one in front"
+  ],
+  "You can catch more flies with honey than you can with vinegar": [
+    "honey",
+    "catches more flies than",
+    "vinegar"
+  ],
+  "You can catch more flies with vinegar than you can with honey": [
+    "vinegar",
+    "catches more flies than",
+    "honey"
+  ],
+  "It starts with \"A\" and ends with \"Z\"": [
+    "It",
+    "starts with",
+    "A"
+  ],
+  "It starts with \"Z\" and ends with \"A\"": [
+    "It",
+    "starts with",
+    "Z"
+  ],
+  "a shadow within the line": [
+    "shadow",
+    "is within",
+    "line"
+  ],
+  "a line within the shadow": [
+    "line",
+    "is within",
+    "shadow"
+  ],
+  "the brave in the face of fear": [
+    "brave",
+    "in the face of",
+    "fear"
+  ],
+  "fear in the face of the brave": [
+    "fear",
+    "in the face of",
+    "brave"
+  ],
+  "I need my strength back": [
+    "I",
+    "need back",
+    "my strength"
+  ],
+  "I need my back strength": [
+    "I",
+    "need",
+    "my back strength"
+  ],
+  "the one in the middle is taller than the ones on the side are": [
+    "one in the middle",
+    "is taller than",
+    "ones on the side"
+  ],
+  "the ones on the side are taller than the one in the middle is": [
+    "ones on the side",
+    "are taller than",
+    "one in the middle"
+  ],
+  "fish flying": [
+    "fish",
+    "is",
+    "flying"
+  ],
+  "fly fishing": [],
+  "the red car is behind the blue car": [
+    "red car",
+    "is behind",
+    "blue car"
+  ],
+  "the blue car is behind the red car": [
+    "blue car",
+    "is behind",
+    "red car"
+  ],
+  "the driver wearing a shirt is in front of the other person wearing a sleeveless top": [
+    "driver wearing a shirt",
+    "is in front of",
+    "other person wearing a sleeveless top"
+  ],
+  "the driver wearing a sleeveless top is in front of the other person wearing a shirt": [
+    "driver wearing a sleeveless top",
+    "is in front of",
+    "other person wearing a shirt"
+  ],
+  "an object that rolls is on some wood": [
+    "object that rolls",
+    "is on",
+    "some wood"
+  ],
+  "some wood is on an object that rolls": [
+    "some wood",
+    "is on",
+    "object that rolls"
+  ],
+  "a cat viewing a human on a screen": [
+    "cat",
+    "viewing",
+    "human on a screen"
+  ],
+  "a human viewing a cat on a screen": [
+    "human",
+    "viewing",
+    "cat on a screen"
+  ],
+  "a normal person wishing they were a superhero": [
+    "normal person",
+    "wishing to be",
+    "superhero"
+  ],
+  "a superhero wishing they were a normal person": [
+    "superhero",
+    "wishing to be",
+    "normal person"
+  ],
+  "a mike in the right hand while raising the left": [
+    "mike",
+    "is in",
+    "right hand"
+  ],
+  "a mike in the left hand while raising the right": [
+    "mike",
+    "is in",
+    "left hand"
+  ],
+  "a person with long hair behind a person with a beard": [
+    "person with long hair",
+    "is behind",
+    "person with a beard"
+  ],
+  "a person with a beard behind a person with long hair": [
+    "person with a beard",
+    "is behind",
+    "person with long hair"
+  ],
+  "the person with hair to their shoulders has brown eyes and the other person's are blue": [
+    "person with hair to their shoulders",
+    "has",
+    "brown eyes"
+  ],
+  "the person with hair to their shoulders has blue eyes and the other person's are brown": [
+    "person with hair to their shoulders",
+    "has",
+    "blue eyes"
+  ],
+  "a human being on a device that intercepts the sun's rays": [
+    "human being",
+    "is on",
+    "device that intercepts the sun's rays"
+  ],
+  "a device that intercepts the sun's rays on a human being": [
+    "device that intercepts the sun's rays",
+    "is on",
+    "human being"
+  ],
+  "more humans than phones": [
+    "humans",
+    "are more than",
+    "phones"
+  ],
+  "more phones than humans": [
+    "phones",
+    "are more than",
+    "humans"
+  ],
+  "a person is in the tube": [
+    "person",
+    "is in",
+    "tube"
+  ],
+  "a tube is in the person": [
+    "tube",
+    "is in",
+    "person"
+  ],
+  "the person's head is above the rest of their body": [
+    "person's head",
+    "is above",
+    "rest of their body"
+  ],
+  "the rest of their body is above the person's head": [
+    "rest of their body",
+    "is above",
+    "person's head"
+  ],
+  "person overboard": [
+    "person",
+    "is",
+    "overboard"
+  ],
+  "person over board": [
+    "person",
+    "is over",
+    "board"
+  ],
+  "more red buttons than blue": [
+    "red buttons",
+    "are more than",
+    "blue buttons"
+  ],
+  "more blue buttons than red": [
+    "blue buttons",
+    "are more than",
+    "red buttons"
+  ],
+  "the object at the top left is purple and the one at the bottom right of the group is red": [
+    "object at the top left",
+    "is",
+    "purple"
+  ],
+  "the object at the bottom right is purple and the one at the top left of the group is red": [
+    "object at the bottom right",
+    "is",
+    "purple"
+  ],
+  "flat at the bottom and pointy on top": [
+    "bottom",
+    "is",
+    "flat"
+  ],
+  "flat on top and pointy at the bottom": [
+    "top",
+    "is",
+    "flat"
+  ],
+  "seat numbers increasing from left to right": [
+    "seat numbers",
+    "increasing from",
+    "left to right"
+  ],
+  "seat numbers increasing from right to left": [
+    "seat numbers",
+    "increasing from",
+    "right to left"
+  ],
+  "the number on the right is larger than the number on the left": [
+    "number on the right",
+    "is larger than",
+    "number on the left"
+  ],
+  "the number on the left is larger than the number on the right": [
+    "number on the left",
+    "is larger than",
+    "number on the right"
+  ],
+  "more hair on the person's face than on their head": [
+    "hair on person's face",
+    "is more than",
+    "hair on their head"
+  ],
+  "more hair on the person's head than on their face": [
+    "hair on person's head",
+    "is more than",
+    "hair on their face"
+  ],
+  "the knife on the left and the fork on the right": [
+    "knife",
+    "is on",
+    "left"
+  ],
+  "the knife on the right and the fork on the left": [
+    "knife",
+    "is on",
+    "right"
+  ],
+  "food on their eyes": [
+    "food",
+    "is on",
+    "their eyes"
+  ],
+  "eyes on their food": [
+    "eyes",
+    "are on",
+    "their food"
+  ],
+  "cars of bits": [
+    "cars",
+    "are made of",
+    "bits"
+  ],
+  "bits of cars": [
+    "bits",
+    "are from",
+    "cars"
+  ],
+  "a person on top of the world": [
+    "person",
+    "is on top of",
+    "world"
+  ],
+  "the world on top of a person": [
+    "world",
+    "is on top of",
+    "person"
+  ],
+  "two people; the one on the right has curly hair and the one on the left doesn't": [
+    "one on the right",
+    "has",
+    "curly hair"
+  ],
+  "two people; the one on the left has curly hair and the one on the right doesn't": [
+    "one on the left",
+    "has",
+    "curly hair"
+  ],
+  "first the cream, then the jam": [
+    "cream",
+    "is before",
+    "jam"
+  ],
+  "first the jam, then the cream": [
+    "jam",
+    "is before",
+    "cream"
+  ],
+  "more kisses than hugs": [
+    "kisses",
+    "are more than",
+    "hugs"
+  ],
+  "more hugs than kisses": [
+    "hugs",
+    "are more than",
+    "kisses"
+  ],
+  "an inflatable flamingo on a person": [
+    "inflatable flamingo",
+    "is on",
+    "person"
+  ],
+  "a person on an inflatable flamingo": [
+    "person",
+    "is on",
+    "inflatable flamingo"
+  ],
+  "a pink bird with a white beak": [
+    "pink bird",
+    "has",
+    "white beak"
+  ],
+  "a white bird with a pink beak": [
+    "white bird",
+    "has",
+    "pink beak"
+  ],
+  "a large pink inflatable flamingo along with some other lilos on the water including one that is mostly white": [
+    "large pink inflatable flamingo",
+    "is on",
+    "water"
+  ],
+  "a large white inflatable flamingo along with some other lilos on the water including one that is mostly pink": [
+    "large white inflatable flamingo",
+    "is on",
+    "water"
+  ],
+  "there are more eyes in the image than there are on a typical human": [
+    "eyes in the image",
+    "are more than",
+    "eyes on a typical human"
+  ],
+  "there are more eyes on a typical human than there are in the image": [
+    "eyes on a typical human",
+    "are more than",
+    "eyes in the image"
+  ],
+  "the confident doctor's stethoscope is around their neck, and their jacket is over their name tag": [
+    "confident doctor's stethoscope",
+    "is around",
+    "their neck"
+  ],
+  "the confident doctor's stethoscope is around their neck, and their name tag is over their jacket": [
+    "name tag",
+    "is over",
+    "their jacket"
+  ],
+  "few wind turbines and many clouds": [
+    "clouds",
+    "are more than",
+    "wind turbines"
+  ],
+  "few clouds and many wind turbines": [
+    "wind turbines",
+    "are more than",
+    "clouds"
+  ],
+  "an adult is reading to their young child": [
+    "adult",
+    "is reading to",
+    "young child"
+  ],
+  "their young child is reading to an adult": [
+    "young child",
+    "is reading to",
+    "adult"
+  ],
+  "the shopping basket is full and the shelves on the person's right are empty": [
+    "shopping basket",
+    "is",
+    "full"
+  ],
+  "the shelves on the person's right are full and the shopping basket is empty": [
+    "shelves on the person's right",
+    "are",
+    "full"
+  ],
+  "Young person playing baseball with a green bat and blue ball": [
+    "Young person",
+    "is playing baseball with",
+    "green bat"
+  ],
+  "Young person playing baseball with a blue bat and green ball": [
+    "Young person",
+    "is playing baseball with",
+    "blue bat"
+  ],
+  "painting the white wall red": [
+    "white wall",
+    "is being painted",
+    "red"
+  ],
+  "painting the red wall white": [
+    "red wall",
+    "is being painted",
+    "white"
+  ],
+  "wearing a red jacket over blue": [
+    "red jacket",
+    "is over",
+    "blue clothing"
+  ],
+  "wearing a blue jacket over red": [
+    "blue jacket",
+    "is over",
+    "red clothing"
+  ],
+  "I had cleaned my car": [
+    "I",
+    "cleaned",
+    "my car"
+  ],
+  "I had my car cleaned": [
+    "my car",
+    "was cleaned by",
+    "someone"
+  ],
+  "unfortunate poor people": [],
+  "poor unfortunate people": [],
+  "there are less gloves than masks": [
+    "gloves",
+    "are less than",
+    "masks"
+  ],
+  "there are less masks than gloves": [
+    "masks",
+    "are less than",
+    "gloves"
+  ],
+  "there are more pineapples than boxes": [
+    "pineapples",
+    "are more than",
+    "boxes"
+  ],
+  "there are more boxes than pineapples": [
+    "boxes",
+    "are more than",
+    "pineapples"
+  ],
+  "the outer bristles are blue and the inner ones are white": [
+    "outer bristles",
+    "are",
+    "blue"
+  ],
+  "the outer bristles are white and the inner ones are blue": [
+    "outer bristles",
+    "are",
+    "white"
+  ],
+  "the first vowel is E and the last consonant is N": [
+    "first vowel",
+    "is",
+    "E"
+  ],
+  "the last vowel is E and the first consonant is N": [
+    "last vowel",
+    "is",
+    "E"
+  ],
+  "the cat on the left of the photo has its right paw ahead of its left": [
+    "cat on the left's right paw",
+    "is ahead of",
+    "its left paw"
+  ],
+  "the cat on the left of the photo has its left paw ahead of its right": [
+    "cat on the left's left paw",
+    "is ahead of",
+    "its right paw"
+  ],
+  "the text is black on white": [
+    "black text",
+    "is on",
+    "white background"
+  ],
+  "the text is white on black": [
+    "white text",
+    "is on",
+    "black background"
+  ],
+  "the dog sits and the cat stands": [
+    "dog",
+    "is",
+    "sitting"
+  ],
+  "the dog stands and the cat sits": [
+    "dog",
+    "is",
+    "standing"
+  ],
+  "the person with facial hair cycles and the other person runs": [
+    "person with facial hair",
+    "is",
+    "cycling"
+  ],
+  "the person with facial hair runs and the other person cycles": [
+    "person with facial hair",
+    "is",
+    "running"
+  ],
+  "using the laptop while the guitar is close by": [
+    "someone",
+    "is using",
+    "laptop"
+  ],
+  "using the guitar while the laptop is close by": [
+    "someone",
+    "is using",
+    "guitar"
+  ],
+  "a person in a blue coat with a brown-ish coffee cup": [
+    "person in a blue coat",
+    "has",
+    "brown-ish coffee cup"
+  ],
+  "a person in a brown-ish coat with a blue coffee cup": [
+    "person in a brown-ish coat",
+    "has",
+    "blue coffee cup"
+  ],
+  "space in a star": [
+    "space",
+    "is in",
+    "star"
+  ],
+  "a star in space": [
+    "star",
+    "is in",
+    "space"
+  ],
+  "star of death": [
+    "star",
+    "of",
+    "death"
+  ],
+  "death of star": [
+    "star",
+    "experiences",
+    "death"
+  ],
+  "the younger person is making noise while the other is silent": [
+    "younger person",
+    "is making",
+    "noise"
+  ],
+  "the younger person is silent while the other is making noise": [
+    "younger person",
+    "is",
+    "silent"
+  ],
+  "the one on the left is happy and the other is sad": [
+    "one on the left",
+    "is",
+    "happy"
+  ],
+  "the one on the left is sad and the other is happy": [
+    "one on the left",
+    "is",
+    "sad"
+  ],
+  "the person on the left is dancing and the person on the very right is sitting on the sofa": [
+    "person on the left",
+    "is",
+    "dancing"
+  ],
+  "the person on the left is sitting on the sofa and the person on the very right is dancing": [
+    "person on the left",
+    "is sitting on",
+    "sofa"
+  ],
+  "the person on the left is crying sadly while the one on the right is smiling happily": [
+    "person on the left",
+    "is",
+    "crying sadly"
+  ],
+  "the person on the left is smiling happily while the one on the right is crying sadly": [
+    "person on the left",
+    "is",
+    "smiling happily"
+  ],
+  "the large person is drinking from the small coffee cup": [
+    "large person",
+    "is drinking from",
+    "small coffee cup"
+  ],
+  "the small person is drinking from the large coffee cup": [
+    "small person",
+    "is drinking from",
+    "large coffee cup"
+  ],
+  "hot rubber and cool metal": [
+    "rubber",
+    "is",
+    "hot"
+  ],
+  "cool rubber and hot metal": [
+    "rubber",
+    "is",
+    "cool"
+  ],
+  "the triangular shape is beneath the square one": [
+    "triangular shape",
+    "is beneath",
+    "square one"
+  ],
+  "the square shape is beneath the triangular one": [
+    "square shape",
+    "is beneath",
+    "triangular one"
+  ],
+  "rough outside but smooth inside": [
+    "outside",
+    "is",
+    "rough"
+  ],
+  "smooth outside but rough inside": [
+    "outside",
+    "is",
+    "smooth"
+  ],
+  "the green one is fast and the one in white is comparatively slow": [
+    "green one",
+    "is",
+    "fast"
+  ],
+  "the green one is slow and the one in white is comparatively fast": [
+    "green one",
+    "is",
+    "slow"
+  ],
+  "there are more humans than balls": [
+    "humans",
+    "are more than",
+    "balls"
+  ],
+  "there are more balls than humans": [
+    "balls",
+    "are more than",
+    "humans"
+  ],
+  "there are more legs than wheels": [
+    "legs",
+    "are more than",
+    "wheels"
+  ],
+  "there are more wheels than legs": [
+    "wheels",
+    "are more than",
+    "legs"
+  ],
+  "a group of three people with longer hair and two with short hair in a business context": [
+    "people with longer hair",
+    "are more than",
+    "people with short hair"
+  ],
+  "a group of two people with longer hair and three with short hair in a business context": [
+    "people with short hair",
+    "are more than",
+    "people with longer hair"
+  ],
+  "the gesture of the person sitting down is supporting the understanding of the person standing up": [
+    "gesture of the person sitting down",
+    "is supporting",
+    "understanding of the person standing up"
+  ],
+  "the gesture of the person standing up is supporting the understanding of the person sitting down": [
+    "gesture of the person standing up",
+    "is supporting",
+    "understanding of the person sitting down"
+  ],
+  "the circle is above the cross": [
+    "circle",
+    "is above",
+    "cross"
+  ],
+  "the cross is above the circle": [
+    "cross",
+    "is above",
+    "circle"
+  ],
+  "aerial view of a green tree in the brown freshly turned soil next to a green field": [
+    "green tree",
+    "is in",
+    "brown freshly turned soil"
+  ],
+  "aerial view of a green tree in a green field next to the brown freshly turned soil": [
+    "green tree",
+    "is in",
+    "green field"
+  ],
+  "physical therapist inspecting blue elastic therapeutic kinesio tape over pink": [
+    "blue elastic therapeutic kinesio tape",
+    "is over",
+    "pink"
+  ],
+  "physical therapist inspecting pink elastic therapeutic kinesio tape over blue": [
+    "pink elastic therapeutic kinesio tape",
+    "is over",
+    "blue"
+  ],
+  "the skipping rope color is different to the shoelaces but similar to the shoes": [
+    "skipping rope color",
+    "is different to",
+    "shoelaces"
+  ],
+  "the skipping rope color is similar to the shoelaces but different to the shoes": [
+    "skipping rope color",
+    "is similar to",
+    "shoelaces"
+  ],
+  "the blue balloon is being lifted by the weight": [
+    "weight",
+    "is lifting",
+    "blue balloon"
+  ],
+  "the weight is being lifted by the blue balloon": [
+    "blue balloon",
+    "is lifting",
+    "weight"
+  ],
+  "the sea is rough but the rocks are smooth": [
+    "sea",
+    "is",
+    "rough"
+  ],
+  "the sea is smooth but the rocks are rough": [
+    "sea",
+    "is",
+    "smooth"
+  ],
+  "the melting white food is cold while the brown is warm": [
+    "melting white food",
+    "is",
+    "cold"
+  ],
+  "the melting white food is warm while the brown is cold": [
+    "melting white food",
+    "is",
+    "warm"
+  ],
+  "the person with a beard is smiling while the person with long hair is not": [
+    "person with a beard",
+    "is",
+    "smiling"
+  ],
+  "the person with long hair is smiling while the person with a beard is not": [
+    "person with long hair",
+    "is",
+    "smiling"
+  ],
+  "the pet on the right is white and the one on the left is not": [
+    "pet on the right",
+    "is",
+    "white"
+  ],
+  "the pet on the left is white and the one on the right is not": [
+    "pet on the left",
+    "is",
+    "white"
+  ],
+  "the outlet carrying water from the faucet to the shower head is near the hot tap not the cold": [
+    "outlet",
+    "is near",
+    "hot tap"
+  ],
+  "the outlet carrying water from the faucet to the shower head is near the cold tap not the hot": [
+    "outlet",
+    "is near",
+    "cold tap"
+  ],
+  "the larger ball is heavier and the smaller one is lighter": [
+    "larger ball",
+    "is",
+    "heavier"
+  ],
+  "the larger ball is lighter and the smaller one is heavier": [
+    "larger ball",
+    "is",
+    "lighter"
+  ],
+  "The adult with the magnifying glass looks at the kid": [
+    "adult with the magnifying glass",
+    "looks at",
+    "kid"
+  ],
+  "The adult looks at the kid with the magnifying glass": [
+    "adult",
+    "looks at",
+    "kid with the magnifying glass"
+  ],
+  "a dog is on a blanket with spots": [
+    "dog",
+    "is on",
+    "blanket with spots"
+  ],
+  "a blanket is on a dog with spots": [
+    "blanket",
+    "is on",
+    "dog with spots"
+  ],
+  "There is a mouse cake for a birthday": [
+    "mouse cake",
+    "is for",
+    "birthday"
+  ],
+  "There is a birthday cake for a mouse": [
+    "birthday cake",
+    "is for",
+    "mouse"
+  ],
+  "The cold-blooded animal isn't happy in warm water": [
+    "cold-blooded animal",
+    "isn't happy in",
+    "warm water"
+  ],
+  "The warm-blooded animal isn't happy in cold water": [
+    "warm-blooded animal",
+    "isn't happy in",
+    "cold water"
+  ],
+  "The white queen is taking the black king": [
+    "white queen",
+    "is taking",
+    "black king"
+  ],
+  "The black queen is taking the white king": [
+    "black queen",
+    "is taking",
+    "white king"
+  ],
+  "visiting animals at home can be fun": [
+    "visiting animals at home",
+    "can be",
+    "fun"
+  ],
+  "animals visiting at home can be fun": [
+    "animals visiting at home",
+    "can be",
+    "fun"
+  ],
+  "the person is not happy with the cat": [
+    "person",
+    "is not happy with",
+    "cat"
+  ],
+  "the cat is not happy with the person": [
+    "cat",
+    "is not happy with",
+    "person"
+  ],
+  "the person is too big for the small door": [
+    "person",
+    "is too big for",
+    "small door"
+  ],
+  "the door is too small for the big person": [
+    "door",
+    "is too small for",
+    "big person"
+  ],
+  "a taller person is covering the eyes of a shorter person": [
+    "taller person",
+    "is covering eyes of",
+    "shorter person"
+  ],
+  "a shorter person is covering the eyes of a taller person": [
+    "shorter person",
+    "is covering eyes of",
+    "taller person"
+  ],
+  "the plant is eating the bug": [
+    "plant",
+    "is eating",
+    "bug"
+  ],
+  "the bug is eating the plant": [
+    "bug",
+    "is eating",
+    "plant"
+  ],
+  "every bug has a leaf": [
+    "every bug",
+    "has",
+    "leaf"
+  ],
+  "every leaf has a bug": [
+    "every leaf",
+    "has",
+    "bug"
+  ],
+  "the green leaves will soon be red as the seasons change": [
+    "green leaves",
+    "will be",
+    "red"
+  ],
+  "the red leaves will soon be green as the seasons change": [
+    "red leaves",
+    "will be",
+    "green"
+  ],
+  "the white wall will soon be painted blue": [
+    "white wall",
+    "will be painted",
+    "blue"
+  ],
+  "the blue wall will soon be painted white": [
+    "blue wall",
+    "will be painted",
+    "white"
+  ],
+  "the moon prevents the sun's rays from falling on the earth": [
+    "moon",
+    "prevents sun's rays from falling on",
+    "earth"
+  ],
+  "the earth prevents the sun's rays from falling on the moon": [
+    "earth",
+    "prevents sun's rays from falling on",
+    "moon"
+  ],
+  "all paper airplanes fly on a straight path except for one which takes a curved one": [
+    "one paper airplane",
+    "takes",
+    "curved path"
+  ],
+  "all paper airplanes fly on a curved path except for one which takes a straight one": [
+    "one paper airplane",
+    "takes",
+    "straight path"
+  ],
+  "the person is too big for the pants": [
+    "person",
+    "is too big for",
+    "pants"
+  ],
+  "the pants is too big for the person": [
+    "pants",
+    "is too big for",
+    "person"
+  ],
+  "a kid jumped then threw a basketball": [
+    "kid",
+    "jumped before",
+    "throwing basketball"
+  ],
+  "a kid threw a basketball then jumped": [
+    "kid",
+    "threw basketball before",
+    "jumping"
+  ],
+  "one cheerlearder supporting multiple cheerleaders": [
+    "one cheerleader",
+    "is supporting",
+    "multiple cheerleaders"
+  ],
+  "multiple cheerleaders supporting one cheerlearder": [
+    "multiple cheerleaders",
+    "are supporting",
+    "one cheerleader"
+  ],
+  "two persons wearing one scarf": [
+    "two persons",
+    "are wearing",
+    "one scarf"
+  ],
+  "one person wearing two scarfs": [
+    "one person",
+    "is wearing",
+    "two scarfs"
+  ],
+  "human head on pet": [
+    "human head",
+    "is on",
+    "pet"
+  ],
+  "pet head on human": [
+    "pet head",
+    "is on",
+    "human"
+  ],
+  "the cow is over the moon": [
+    "cow",
+    "is over",
+    "moon"
+  ],
+  "the moon is over the cow": [
+    "moon",
+    "is over",
+    "cow"
+  ],
+  "someone babys a pet": [
+    "someone",
+    "babysits",
+    "pet"
+  ],
+  "someone pets a baby": [
+    "someone",
+    "pets",
+    "baby"
+  ],
+  "cat house": [
+    "house",
+    "is for",
+    "cat"
+  ],
+  "house cat": [
+    "cat",
+    "lives in",
+    "house"
+  ],
+  "gold for pan": [
+    "gold",
+    "is for",
+    "pan"
+  ],
+  "pan for gold": [
+    "someone",
+    "is panning for",
+    "gold"
+  ],
+  "water for plants": [
+    "water",
+    "is for",
+    "plants"
+  ],
+  "plants for water": [
+    "plants",
+    "need",
+    "water"
+  ],
+  "the businessperson's down fall": [
+    "businessperson",
+    "had",
+    "downfall"
+  ],
+  "the businessperson's fall down": [
+    "businessperson",
+    "did",
+    "fall down"
+  ],
+  "outswam the person in the red swimcap": [
+    "someone",
+    "outswam",
+    "person in the red swimcap"
+  ],
+  "the person in the red swimcap swamout": [],
+  "manning a ship": [
+    "someone",
+    "is manning",
+    "ship"
+  ],
+  "shiping a mann": [
+    "someone",
+    "is shipping",
+    "man"
+  ],
+  "the person wearing a sweater stands in front of the person who isn't wearing a sweater": [
+    "person wearing a sweater",
+    "stands in front of",
+    "person who isn't wearing a sweater"
+  ],
+  "the person who isn't wearing a sweater stands in front of the person wearing a sweater": [
+    "person who isn't wearing a sweater",
+    "stands in front of",
+    "person wearing a sweater"
+  ],
+  "a person without glasses pushes a person with glasses sitting in a box": [
+    "person without glasses",
+    "pushes",
+    "person with glasses sitting in a box"
+  ],
+  "a person with glasses pushes a person without glasses sitting in a box": [
+    "person with glasses",
+    "pushes",
+    "person without glasses sitting in a box"
+  ],
+  "what is green will soon be yellow": [
+    "green thing",
+    "will be",
+    "yellow"
+  ],
+  "what is yellow will soon be green": [
+    "yellow thing",
+    "will be",
+    "green"
+  ],
+  "soon this animal not with a tail will have one": [
+    "animal not with a tail",
+    "will have",
+    "a tail"
+  ],
+  "soon this animal with a tail will not have one": [
+    "animal with a tail",
+    "will not have",
+    "a tail"
+  ],
+  "a mouse is touching a dog": [
+    "mouse",
+    "is touching",
+    "dog"
+  ],
+  "a dog is touching a mouse": [
+    "dog",
+    "is touching",
+    "mouse"
+  ],
+  "fishing for compliments": [
+    "someone",
+    "is fishing for",
+    "compliments"
+  ],
+  "compliments for fishing": [
+    "compliments",
+    "are for",
+    "fishing"
+  ],
+  "that person dusting off their hands": [
+    "that person",
+    "is dusting off",
+    "their hands"
+  ],
+  "that person hands off their dusting": [],
+  "a person wearing black shoes cleaning a bookshelf with an orange duster while a person wearing green shoes drinks wine from an orange glass and relaxes": [
+    "person wearing black shoes",
+    "is cleaning",
+    "bookshelf"
+  ],
+  "a person wearing green shoes cleaning a bookshelf with an orange duster while a person wearing black shoes drinks wine from an orange glass and relaxes": [
+    "person wearing green shoes",
+    "is cleaning",
+    "bookshelf"
+  ],
+  "a person with short hair is happily ironing a light blue shirt while a person with long hair sits on a white couch": [
+    "person with short hair",
+    "is ironing",
+    "light blue shirt"
+  ],
+  "a person with long hair is happily ironing a light blue shirt while a person with short hair sits on a white couch": [
+    "person with long hair",
+    "is ironing",
+    "light blue shirt"
+  ],
+  "yellow duck shoes on": [
+    "someone",
+    "is wearing",
+    "yellow duck shoes"
+  ],
+  "yellow duck on shoes": [
+    "yellow duck",
+    "is on",
+    "shoes"
+  ],
+  "child in front facing row of yellow rubber ducks": [
+    "child",
+    "is in front of",
+    "row of yellow rubber ducks"
+  ],
+  "front facing child in row of yellow rubber ducks": [
+    "front facing child",
+    "is in",
+    "row of yellow rubber ducks"
+  ],
+  "a bird cooking a person": [
+    "bird",
+    "is cooking",
+    "person"
+  ],
+  "a person cooking a bird": [
+    "person",
+    "is cooking",
+    "bird"
+  ],
+  "a person wearing yellow and a person wearing stripes jumping": [
+    "person wearing yellow",
+    "is",
+    "jumping"
+  ],
+  "a jumping person wearing yellow and a person wearing stripes": [
+    "person wearing yellow",
+    "is",
+    "jumping"
+  ],
+  "a person wearing yellow with their feet in the air and a person wearing stripes": [
+    "person wearing yellow",
+    "has",
+    "feet in the air"
+  ],
+  "a person wearing stripes with their feet in the air and a person wearing yellow": [
+    "person wearing stripes",
+    "has",
+    "feet in the air"
+  ],
+  "darker things become light in stripes": [
+    "darker things",
+    "become",
+    "light in stripes"
+  ],
+  "light things in stripes become darker": [
+    "light things in stripes",
+    "become",
+    "darker"
+  ],
+  "together hammering something": [
+    "they",
+    "are hammering",
+    "something"
+  ],
+  "hammering something together": [
+    "someone",
+    "is hammering",
+    "something"
+  ],
+  "A person sits next to a baby using an orange screwdriver to assemble a white piece of furniture": [
+    "person",
+    "sits next to",
+    "baby"
+  ],
+  "A baby sits next to a person using an orange screwdriver to assemble a white piece of furniture": [
+    "baby",
+    "sits next to",
+    "person"
+  ],
+  "a worker in a yellow hat uses a drill to the left of where the opening in the wall is": [
+    "worker in a yellow hat",
+    "is to the left of",
+    "opening in the wall"
+  ],
+  "the opening in the wall is to the left of where a worker in a yellow hat uses a drill": [
+    "opening in the wall",
+    "is to the left of",
+    "worker in a yellow hat"
+  ],
+  "A small animal with curled hair": [
+    "small animal",
+    "has",
+    "curled hair"
+  ],
+  "A curled small animal with hair": [
+    "small animal",
+    "is",
+    "curled"
+  ],
+  "A right hand pulls a glove onto a left hand": [
+    "right hand",
+    "pulls glove onto",
+    "left hand"
+  ],
+  "A left hand pulls a glove onto a right hand": [
+    "left hand",
+    "pulls glove onto",
+    "right hand"
+  ],
+  "A dog and a person with their feet hanging out of a car window": [
+    "dog and person's feet",
+    "are hanging out of",
+    "car window"
+  ],
+  "A dog with their feet hanging out of a car window and a person": [
+    "dog's feet",
+    "are hanging out of",
+    "car window"
+  ],
+  "A person whispering into a dog's ear": [
+    "person",
+    "is whispering into",
+    "dog's ear"
+  ],
+  "A dog whispering into a person's ear": [
+    "dog",
+    "is whispering into",
+    "person's ear"
+  ],
+  "one ear that some donkey is whispering a secret into": [
+    "donkey",
+    "is whispering a secret into",
+    "one ear"
+  ],
+  "donkey ear that some one is whispering a secret into": [
+    "someone",
+    "is whispering a secret into",
+    "donkey ear"
+  ],
+  "walking someone cut lines into green plants": [
+    "someone",
+    "cut lines into",
+    "green plants"
+  ],
+  "someone walking lines cut into green plants": [
+    "someone",
+    "is walking on",
+    "lines cut into green plants"
+  ],
+  "a volcano above water makes steam": [
+    "volcano",
+    "is above",
+    "water"
+  ],
+  "water above a volcano makes steam": [
+    "water",
+    "is above",
+    "volcano"
+  ],
+  "A child riding a bike and an adult": [
+    "child",
+    "is riding",
+    "bike"
+  ],
+  "A child and an adult riding a bike": [
+    "child and an adult",
+    "are riding",
+    "bike"
+  ],
+  "an adult putting a helmet on a child": [
+    "adult",
+    "is putting helmet on",
+    "child"
+  ],
+  "a child putting a helmet on an adult": [
+    "child",
+    "is putting helmet on",
+    "adult"
+  ],
+  "An adult wearing purple lying next to a child": [
+    "adult wearing purple",
+    "is lying next to",
+    "child"
+  ],
+  "An adult lying next to a child wearing purple": [
+    "adult",
+    "is lying next to",
+    "child wearing purple"
+  ],
+  "a fencer who is wearing black pants having a point scored against them by another fencer using a wheelchair": [
+    "fencer using a wheelchair",
+    "scored a point against",
+    "fencer wearing black pants"
+  ],
+  "a fencer having a point scored against them by another fencer who is wearing black pants using a wheelchair": [
+    "fencer wearing black pants using a wheelchair",
+    "scored a point against",
+    "fencer"
+  ],
+  "a person with long braids is exercising in front of a person without braids": [
+    "person with long braids",
+    "is exercising in front of",
+    "person without braids"
+  ],
+  "a person without braids is exercising in front of a person with long braids": [
+    "person without braids",
+    "is exercising in front of",
+    "person with long braids"
+  ],
+  "in the stadium, the person wearing gray outperformed the one wearing blue": [
+    "person wearing gray",
+    "outperformed",
+    "one wearing blue"
+  ],
+  "in the stadium, the person wearing blue outperformed the one wearing gray": [
+    "person wearing blue",
+    "outperformed",
+    "one wearing gray"
+  ],
+  "butchering white meat while wearing yellow but not red": [
+    "someone",
+    "is butchering",
+    "white meat"
+  ],
+  "butchering red meat while wearing white but not yellow": [
+    "someone",
+    "is butchering",
+    "red meat"
+  ],
+  "a child with a fake beard and an adult": [
+    "child",
+    "has",
+    "fake beard"
+  ],
+  "an adult with a fake beard and a child": [
+    "adult",
+    "has",
+    "fake beard"
+  ],
+  "on halloween, a child dressed as an insect is to the right of a child dressed as a mammal": [
+    "child dressed as an insect",
+    "is to the right of",
+    "child dressed as a mammal"
+  ],
+  "on halloween, a child dressed as a mammal is to the right of a child dressed as an insect": [
+    "child dressed as a mammal",
+    "is to the right of",
+    "child dressed as an insect"
+  ],
+  "a modern office complex with many windows above a nicely landscaped lawn": [
+    "modern office complex with many windows",
+    "is above",
+    "nicely landscaped lawn"
+  ],
+  "a nicely landscaped lawn above a modern office complex with many windows": [
+    "nicely landscaped lawn",
+    "is above",
+    "modern office complex with many windows"
+  ],
+  "a tree is partially inside a parked car": [
+    "tree",
+    "is partially inside",
+    "parked car"
+  ],
+  "a parked car is partially inside a tree": [
+    "parked car",
+    "is partially inside",
+    "tree"
+  ],
+  "some are parking in a train": [
+    "some",
+    "are parking in",
+    "train"
+  ],
+  "some are training in a park": [
+    "some",
+    "are training in",
+    "park"
+  ],
+  "an athlete running on water": [
+    "athlete",
+    "is running on",
+    "water"
+  ],
+  "water running on an athlete": [
+    "water",
+    "is running on",
+    "athlete"
+  ],
+  "a horse getting wet": [
+    "horse",
+    "is getting",
+    "wet"
+  ],
+  "getting a horse wet": [
+    "someone",
+    "is getting",
+    "horse wet"
+  ],
+  "the glasses full of water are above the person's head and leg": [
+    "glasses full of water",
+    "are above",
+    "person's head and leg"
+  ],
+  "the person's head and leg are above the glasses full of water": [
+    "person's head and leg",
+    "are above",
+    "glasses full of water"
+  ],
+  "a person is touching the head of a squirrel": [
+    "person",
+    "is touching",
+    "head of a squirrel"
+  ],
+  "a squirrel is touching the head of a person": [
+    "squirrel",
+    "is touching",
+    "head of a person"
+  ],
+  "a deer's nose is resting on a child's hand": [
+    "deer's nose",
+    "is resting on",
+    "child's hand"
+  ],
+  "a child's hand is resting on a deer's nose": [
+    "child's hand",
+    "is resting on",
+    "deer's nose"
+  ],
+  "two sparklers for one hand": [
+    "two sparklers",
+    "are for",
+    "one hand"
+  ],
+  "one sparkler for two hands": [
+    "one sparkler",
+    "is for",
+    "two hands"
+  ],
+  "an animal giving a person food": [
+    "animal",
+    "is giving food to",
+    "person"
+  ],
+  "a person giving an animal food": [
+    "person",
+    "is giving food to",
+    "animal"
+  ],
+  "a spider towering over a dog": [
+    "spider",
+    "is towering over",
+    "dog"
+  ],
+  "a dog towering over a spider": [
+    "dog",
+    "is towering over",
+    "spider"
+  ],
+  "a car going into a hollow tube": [
+    "car",
+    "is going into",
+    "hollow tube"
+  ],
+  "a hollow tube going into a car": [
+    "hollow tube",
+    "is going into",
+    "car"
+  ],
+  "two people wearing clothes of the same colors are on different side of the tennis net": [
+    "two people",
+    "are on different sides of",
+    "tennis net"
+  ],
+  "two people wearing clothes of different colors are on the same side of the tennis net": [
+    "two people",
+    "are on same side of",
+    "tennis net"
+  ],
+  "living things drinking": [
+    "living things",
+    "are",
+    "drinking"
+  ],
+  "drinking living things": [
+    "someone",
+    "is drinking",
+    "living things"
+  ],
+  "a person near water using a lasso": [
+    "person",
+    "is near",
+    "water"
+  ],
+  "near a person using a water lasso": [
+    "someone",
+    "is near",
+    "person using a water lasso"
+  ],
+  "a person spraying water on someone else and a person on a bike": [
+    "person",
+    "is spraying water on",
+    "someone else"
+  ],
+  "a person spraying water on a person on a bike and someone else": [
+    "person",
+    "is spraying water on",
+    "person on a bike"
+  ],
+  "a person stretching behind a brown dog": [
+    "person",
+    "is stretching behind",
+    "brown dog"
+  ],
+  "a brown dog stretching behind a person": [
+    "brown dog",
+    "is stretching behind",
+    "person"
+  ],
+  "a person carrying more than one flotation device": [
+    "person",
+    "is carrying",
+    "more than one flotation device"
+  ],
+  "more than one flotation device carrying a person": [
+    "more than one flotation device",
+    "is carrying",
+    "person"
+  ],
+  "two kids on a pool floatie and one kid swimming": [
+    "two kids",
+    "are on",
+    "pool floatie"
+  ],
+  "one kid on a pool floatie and two kids swimming": [
+    "one kid",
+    "is on",
+    "pool floatie"
+  ],
+  "gears for moving something": [
+    "gears",
+    "are for",
+    "moving something"
+  ],
+  "moving gears for something": [
+    "moving gears",
+    "are for",
+    "something"
+  ],
+  "looking from above at a collection of similar objects below": [
+    "viewer",
+    "is looking from above at",
+    "collection of similar objects"
+  ],
+  "looking from below at a collection of similar objects above": [
+    "viewer",
+    "is looking from below at",
+    "collection of similar objects"
+  ],
+  "a toy herbivore stands on top of at least one toy carnivore": [
+    "toy herbivore",
+    "stands on top of",
+    "at least one toy carnivore"
+  ],
+  "at least one toy herbivore stands on top of a toy carnivore": [
+    "at least one toy herbivore",
+    "stands on top of",
+    "toy carnivore"
+  ],
+  "a person supports a small chair": [
+    "person",
+    "supports",
+    "small chair"
+  ],
+  "a chair supports a small person": [
+    "chair",
+    "supports",
+    "small person"
+  ],
+  "a person smiles at another person wearing a checked shirt who is hitting a ping pong ball": [
+    "person",
+    "smiles at",
+    "another person wearing a checked shirt"
+  ],
+  "a person wearing a checked shirt smiles at another person who is hitting a ping pong ball": [
+    "person wearing a checked shirt",
+    "smiles at",
+    "another person"
+  ],
+  "two versions of one person": [
+    "versions",
+    "are of",
+    "one person"
+  ],
+  "one version of two persons": [
+    "version",
+    "is of",
+    "two persons"
+  ],
+  "There are not pink flowers below the bird with yellow head feathers": [
+    "pink flowers",
+    "are not below",
+    "bird with yellow head feathers"
+  ],
+  "There are pink flowers not below the bird with yellow head feathers": [
+    "pink flowers",
+    "are not below",
+    "bird with yellow head feathers"
+  ],
+  "In a shopping cart, there are two animals that are the same species but are looking in different directions": [
+    "two animals",
+    "are in",
+    "shopping cart"
+  ],
+  "In a shopping cart, there are two animals that are the different species but are looking in same directions": [
+    "two animals",
+    "are in",
+    "shopping cart"
+  ],
+  "water is on and under a vessel": [
+    "water",
+    "is on",
+    "vessel"
+  ],
+  "a vessel is on and under water": [
+    "vessel",
+    "is on",
+    "water"
+  ],
+  "two bodies share with one head": [
+    "two bodies",
+    "share",
+    "one head"
+  ],
+  "one bodies share with two head": [
+    "one body",
+    "shares",
+    "two heads"
+  ],
+  "The worker wears something striped over a white undershirt with a collar": [
+    "something striped",
+    "is over",
+    "white undershirt with a collar"
+  ],
+  "The worker wears something white over a striped undershirt with a collar": [
+    "something white",
+    "is over",
+    "striped undershirt with a collar"
+  ],
+  "A person seen from above has a grid below them": [
+    "grid",
+    "is below",
+    "person"
+  ],
+  "A person seen from below has a grid above them": [
+    "grid",
+    "is above",
+    "person"
+  ],
+  "head in the clouds": [
+    "head",
+    "is in",
+    "clouds"
+  ],
+  "clouds in the head": [
+    "clouds",
+    "are in",
+    "head"
+  ],
+  "standing on feet": [
+    "someone",
+    "is standing on",
+    "feet"
+  ],
+  "on feet standing": [
+    "someone",
+    "is standing on",
+    "feet"
+  ],
+  "They have sunglasses over their hair": [
+    "sunglasses",
+    "are over",
+    "their hair"
+  ],
+  "They have hair over their sunglasses": [
+    "hair",
+    "is over",
+    "their sunglasses"
+  ],
+  "an odd number of sweet things on a plate with an even number of sides": [
+    "number of sweet things",
+    "is",
+    "odd"
+  ],
+  "an even number of sweet things on a plate with an odd number of sides": [
+    "number of sweet things",
+    "is",
+    "even"
+  ],
+  "a large living thing in front of a large non-living thing": [
+    "large living thing",
+    "is in front of",
+    "large non-living thing"
+  ],
+  "a large non-living thing in front of a large living thing": [
+    "large non-living thing",
+    "is in front of",
+    "large living thing"
+  ],
+  "racing over it": [
+    "someone",
+    "is racing over",
+    "it"
+  ],
+  "racing it over": [],
+  "someone is overdoing it": [
+    "someone",
+    "is overdoing",
+    "it"
+  ],
+  "someone is doing it over": [
+    "someone",
+    "is doing over",
+    "it"
+  ]
+}
