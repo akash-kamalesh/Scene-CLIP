@@ -190,7 +190,7 @@ To evaluate a saved checkpoint, load it into `SceneCLIP` inside a small script a
 - `model_zoo/` contains additional baseline model wrappers (BLIP, X-VLM, FLAVA, CLIP) used only for baseline comparison in the paper's tables, not required to train/run Scene-CLIP itself.
 
 ## Citation
-
+This work builds on top of Structure-CLIP's codebase.
 If you use this code or build on Scene-CLIP, please cite:
 
 ```bibtex
