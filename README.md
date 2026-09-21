@@ -5,7 +5,7 @@
 *Akash Kamalesh, Tanistha Hota, Gowri Srinivasa*
 PES Center for Pattern Recognition, Department of Computer Science and Engineering, PES University, Bengaluru, India
 
-[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37667-1_10) [[Supplementary](Supplementary.pdf)]
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37667-1_10)] [[Supplementary](Supplementary.pdf)]
 
 ---
 
